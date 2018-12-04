@@ -37,5 +37,9 @@
   },
   "Message": {
     "dataSource": null
+  },
+  "books": {
+    "dataSource": "db",
+    "public": true
   }
 }
